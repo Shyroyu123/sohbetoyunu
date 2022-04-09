@@ -1,5 +1,5 @@
 --MadeByShinra Shinra#7506
-pring('Made By Shinra)
+print('Made By Shinra)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-101.870232, 22.9797344, -120.734985, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
 wait(1) 
